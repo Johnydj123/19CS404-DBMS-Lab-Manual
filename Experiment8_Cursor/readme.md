@@ -134,7 +134,7 @@ The program should display employee names with their department numbers or the a
 - Implement exception handling to catch the relevant exceptions and display appropriate messages.
 
 **Output:**  
-The program should display employee records or the appropriate error message if no data is found.
+The program should display employee records or the appropriate error message if no data is found..
 
 ---
 
